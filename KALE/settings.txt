@@ -1,0 +1,14 @@
+datasets\\user_item_prop_rule_075\\train.txt
+datasets\\user_item_prop_rule_075\\valid.txt
+datasets\\user_item_prop_rule_075\\test.txt
+datasets\\user_item_prop_rule_075\groundings.txt
+26746
+13
+256
+100
+0.1
+0.05
+0.05
+1000
+50
+0.01
